@@ -1,0 +1,4 @@
+interface:
+  display_name: "VibeCodingLed USB 状态灯"
+  short_description: "让 AI 工具自动安装、检测、配置并调节 VibeCodingLed USB 状态灯。"
+  default_prompt: "请读取 VibeCodingLed USB 状态灯 skill，自动检测设备、安装依赖、配置 AI 编程状态监控，验证 LED 四态和蜂鸣器提醒；如果声音不合适，请按我说的“响一点”或“轻一点”调整。"
