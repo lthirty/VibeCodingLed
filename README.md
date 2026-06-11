@@ -45,9 +45,9 @@ AI 会通过 skill 保存新的蜂鸣器音量设置，后续 Codex 监控提醒
 ## 使用步骤
 
 1. 把 VibeCodingLed 插到电脑上能传数据的 USB 口。
-2. 下载并解压随产品提供的 VibeCodingLed skill。
+2. 下载并解压 VibeCodingLed skill。如果你拿到的是 GitHub 链接，打开 `https://github.com/lthirty/VibeCodingLed`，点击 `Code` -> `Download ZIP`，解压后保留完整的 `skills/vibecodingled-usb-status-light` 文件夹。
 3. 打开 Codex、Cursor 或其它支持读取 skill 的 AI 编程工具。只安装 Codex 也可以使用。
-4. 让 AI 工具读取 VibeCodingLed skill。
+4. 让 AI 工具读取完整的 `skills/vibecodingled-usb-status-light` 文件夹，不要只复制 `SKILL.md` 单个文件。
 5. 对 AI 工具说：
 
 ```text
